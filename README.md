@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Essentials
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
@@ -25,3 +26,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# FirstAngularProject
+>>>>>>> f86b6067d6abc9fd8a4ffe04a242e93b8cc71214
